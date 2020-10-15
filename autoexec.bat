@@ -1,0 +1,1 @@
+set PYTHONPATH=%PYTHONPATH%;c:\users\samue\appdata\local\packages\pythonsoftwarefoundation.python.3.8_qbz5n2kfra8p0\localcache\local-packages\python38\site-packages
